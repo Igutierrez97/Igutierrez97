@@ -7,6 +7,16 @@
 Soy un entusiasta desarrollador de software con experiencia en la creación de aplicaciones web utilizando las tecnologías mencionadas anteriormente. Me apasiona la resolución de problemas y la creación de soluciones innovadoras.
 
 ## Mis habilidades
+<div align="start">
+    <img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/439004/testing-methodologies.svg" width="50" height="50">
+</div>
+
+
 
 - Desarrollo backend con NestJS y PostgreSQL
 - Desarrollo frontend con React y Next.js
